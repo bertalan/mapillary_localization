@@ -173,7 +173,7 @@ i18nSettings:
   applicationName: "Nome dell'Applicazione"
   company: "Azienda"
   companyUrl: "URL Azienda"
-  callbackUrl: "Callback URL"
+  callbackUrl: "URL di richiamo"
   description: "Descrizione"
   updateApplication: "Aggiorna Applicazione"
   deleteApplication: "Cancella Applicazione"
